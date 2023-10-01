@@ -1,0 +1,1 @@
+TYPE_1 VAR_1 = TYPE_1 . METHOD_1 ( VAR_2 ) ;
